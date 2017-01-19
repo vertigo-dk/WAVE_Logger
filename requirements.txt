@@ -1,0 +1,4 @@
+keen==0.3.28
+pycryptodome==3.4.3
+python-osc==1.6.2
+requests==2.10.0
